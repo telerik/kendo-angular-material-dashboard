@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "./bin/serve-project.js",
-    "build": "ng build",
+    "build": "ng build --prod --output-path docs --base-href /kendo-angular-material-dashboard/",
     "build-all": "./bin/build-all.js",
     "deploy": "gh-pages -d dist",
     "test": "ng test",

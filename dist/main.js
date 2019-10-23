@@ -1784,7 +1784,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/peyanski/Dev/telerik/angular/kendo-angular-material-dashboard/src/main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! C:\IVO\NG-PWA-GH-PAGES\kendo-angular-material-dashboard\src\main.ts */"./src/main.ts");
 
 
 /***/ })
